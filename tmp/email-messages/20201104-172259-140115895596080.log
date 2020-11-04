@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC00LXQvdC40LUg0YPRh9C10YLQvdC+0Lkg0LfQsNC/?=
+ =?utf-8?b?0LjRgdC4IGRqYW5nbw==?=
+From: webmaster@localhost
+To: serzh251@mail.ru
+Date: Wed, 04 Nov 2020 17:22:59 -0000
+Message-ID: <160451057927.15900.14080576410291949126@serzh>
+
+Для подтверждения учетной записи django     на портале http://localhost:8000 перейдите по ссылке:     
+http://localhost:8000/auth/verify/serzh251@mail.ru/25e477862f07af664adb371ba7bfc223ad8dd604/
+-------------------------------------------------------------------------------
