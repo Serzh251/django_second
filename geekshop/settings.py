@@ -37,17 +37,11 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "crispy_forms",
     "mainapp",
     "authnapp",
     "basketapp",
     "adminapp",
 ]
-
-# Django Crispy Forms
-#   Official docs | https://django-crispy-forms.readthedocs.io/en/latest/
-#   Tutorial (ru) | https://django.fun/tutorials/django-i-formy-bootstrap-4/
-CRISPY_TEMPLATE_PACK = "bootstrap4"
 
 # Auth model
 AUTH_USER_MODEL = "authnapp.ShopUser"
